@@ -1,0 +1,30 @@
+.container-card {
+  display: flex;
+  justify-content: space-between;
+}
+.container {
+  width: 1000px;
+  margin: 0 auto;
+  background-color:;
+}
+.card-info {
+  height: 350px;
+  width: 170px;
+  padding: 5px 20px;
+  margin: 0 auto;
+  overflow: hidden;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  text-align: center;
+}
+
+.card-info img {
+  border-radius: 50%;
+  height: 170px;
+  width: 170px;
+  object-fit: cover;
+}
+
+.card-info-content p {
+  font-size: 15px;
+  font-weight:lighter;
+}

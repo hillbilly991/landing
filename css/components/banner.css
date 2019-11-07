@@ -1,0 +1,27 @@
+.banner {
+  background-image: url('../../images/porto-1972486.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 560px;
+  display: flex;
+  align-items: center;
+}
+
+.container-banner {
+  margin: 0 auto;
+  width: 500px;
+}
+
+.container-banner h1 {
+  color:white;
+  text-shadow:10px 5px 6px rgba(0,0,0,0.5)
+}
+
+.container-banner p {
+  color:white;
+  text-shadow:10px 5px 6px rgba(0,0,0,0.5)
+}
+
+.container-banner .btn-treehouse {
+
+}
